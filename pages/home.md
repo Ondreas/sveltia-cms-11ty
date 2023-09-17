@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
-title: Eleventy Sveltia CMS Starter
-date: 2016-01-01T00:00:00.000Z
+title: Sveltia CMS & Eleventy (11ty)
+date: 2023-09-14T23:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: home

@@ -1,6 +1,6 @@
 # Site settings
 # YAML cheat sheet: https://quickref.me/yaml
 
-title: "Eleventy Sveltia CMS Starter"
-description: "A template for building a fast Eleventy blog with Sveltia CMS, for deployment to Netlify"
-url: "https://eleventy-sveltia-cms-starter.netlify.app"
+title: "11ty Sveltia CMS"
+description: "Integration of Sveltia CMS with Eleventy and deployment to Netlify"
+url: "https://sveltia-cms-11ty.netlify.app"
